@@ -1,4 +1,4 @@
-# Jogo Da Velha Java em JAVA
+# Jogo Da Velha em JAVA
 > Status do projeto: Finalizado 
 
 <h3>Projeto pessoal de estudo do jogo da velha feito em Java</h3><br>
